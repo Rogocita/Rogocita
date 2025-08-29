@@ -8,8 +8,8 @@ Self-taught with a strong foundation in HTML, CSS and JavaScript. Experienced in
  <a href="https://roseny.dev/"><img alt="Personal Website" src="https://img.shields.io/badge/Portfolio%20-9F4652?style=flat-rounded&logo=roseny&logoColor=9ca2c3"></a>
     
 
-- 🔭 I’m currently working on improve [Bit Sip](https://github.com/rishavanand/github-profilinator) a recipe web app
-- 🌱 I’m currently learning clean code
+- 🔭 I’m currently working on  Grain's Taqe website
+- 🌱 I’m currently reading Refactoring UI
 - ❓ Ask me about **react, js, css y html**
 - ⚡ Fun fact: The keyboard is my friend.
 <!-- - 📄 Know about my experiences [resume.com](resume.com) -->
@@ -41,7 +41,7 @@ Self-taught with a strong foundation in HTML, CSS and JavaScript. Experienced in
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lachicagladiadora&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-<h3> 📫 &nbsp;Connect with Me </h3> 
+<h3> 📫 &nbsp;Contact me </h3> 
 <div align="center">    
    <a href="https://www.linkedin.com/in/dev-roseny-quintanilla/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-blue?style=flat-rounded&logo=linkedin&logoColor=white"></a>
     <a href="dev.roseny@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-snow?style=flat-rounded&logo=gmail"></a>
