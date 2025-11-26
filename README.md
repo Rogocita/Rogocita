@@ -8,7 +8,7 @@ Self-taught with a strong foundation in HTML, CSS and JavaScript. Experienced in
  <a href="https://roseny.dev/"><img alt="Personal Website" src="https://img.shields.io/badge/Portfolio%20-9F4652?style=flat-rounded&logo=roseny&logoColor=9ca2c3"></a>
     
 
-- 🔭 I’m currently working on  Grain's Taqe website
+- 🔭 I’m currently search opportunities
 - 🌱 I’m currently reading Refactoring UI
 - ❓ Ask me about **react, js, css y html**
 - ⚡ Fun fact: The keyboard is my friend.
