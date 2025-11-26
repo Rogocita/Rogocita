@@ -38,7 +38,7 @@ Self-taught with a strong foundation in HTML, CSS and JavaScript. Experienced in
 </div>
 <div align="center">
   <a href="https://github.com/Lachicagladiadora">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lachicagladiadora&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogocita&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <h3> 📫 &nbsp;Contact me </h3> 
