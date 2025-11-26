@@ -37,14 +37,14 @@ Self-taught with a strong foundation in HTML, CSS and JavaScript. Experienced in
     <img src="https://img.shields.io/badge/-GitHub-gray?style=flat&logo=Github&logoColor=ffffff">
 </div>
 <div align="center">
-  <a href="https://github.com/Lachicagladiadora">
+  <a href="https://github.com/Rogocita">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogocita&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <h3> 📫 &nbsp;Contact me </h3> 
 <div align="center">    
    <a href="https://www.linkedin.com/in/dev-roseny-quintanilla/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-blue?style=flat-rounded&logo=linkedin&logoColor=white"></a>
-    <a href="dev.roseny@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-snow?style=flat-rounded&logo=gmail"></a>
+    <a href="contact@roseny.dev"><img alt="Email" src="https://img.shields.io/badge/Email-snow?style=flat-rounded&logo=gmail"></a>
 </div>
 
 <br>
