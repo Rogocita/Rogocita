@@ -1,16 +1,16 @@
 ## Hi there 👋 I'm Roseny 
-<h4 align="center">Frontend Developer Self-taught   👩‍💻  </h4>
+<h1 align="center">Frontend Developer</h1>
 <!-- <hr> -->
 <h3> 👩‍💻 &nbsp;About Me </h3>
 
-Self-taught with a strong foundation in HTML, CSS and JavaScript. Experienced in personal and collaborative projects, looking for new opportunities.
+Self-taught with a strong foundation in HTML, CSS and JavaScript. Experienced in personal and collaborative projects and currently looking for new opportunities.
 
- <a href="https://roseny.dev/"><img alt="Personal Website" src="https://img.shields.io/badge/Portfolio%20-9F4652?style=flat-rounded&logo=roseny&logoColor=9ca2c3"></a>
+ Know about my experiences in my <a href="https://roseny.dev/"><img alt="Personal Website" src="https://img.shields.io/badge/Portfolio%20-9F4652?style=flat-rounded&logo=roseny&logoColor=9ca2c3"></a>
     
 
 - 🔭 I’m currently search opportunities
-- 🌱 I’m currently reading Refactoring UI
-- ❓ Ask me about **react, js, css y html**
+- 🌱 I’m currently interested about UI and UX
+- ❓ Ask me about **react, js, css or html**
 - ⚡ Fun fact: The keyboard is my friend.
 <!-- - 📄 Know about my experiences [resume.com](resume.com) -->
 
