@@ -44,7 +44,9 @@ Self-taught with a strong foundation in HTML, CSS and JavaScript. Experienced in
 <h3> 📫 &nbsp;Contact me </h3> 
 <div align="center">    
    <a href="https://www.linkedin.com/in/dev-roseny-quintanilla/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-blue?style=flat-rounded&logo=linkedin&logoColor=white"></a>
-    <a href="contact@roseny.dev"><img alt="Email" src="https://img.shields.io/badge/Email-snow?style=flat-rounded&logo=gmail"></a>
+    <a href="mailto:contact@roseny.dev?cc=contact@roseny.dev&bcc=contact@roseny.dev
+            &subject=I%20want%20you%20in%20my%20team
+            &body=Hi!%20Roseny.%0D%0AI%20am%20interested%20in%20your%20background%20and%20think%20you%20match%20with%20my%20team"><img alt="Email" src="https://img.shields.io/badge/Email-snow?style=flat-rounded&logo=gmail"></a>
 </div>
 
 <br>
